@@ -1,6 +1,7 @@
 # porkchop
 
 ![CI](https://github.com/Maxter1476/porkchop/actions/workflows/ci.yml/badge.svg)
+
 **Interplanetary transfer-window analysis from first principles: universal
 Kepler propagation, a Lambert solver, JPL mean-element ephemerides, and
 porkchop plots.**
