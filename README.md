@@ -77,7 +77,3 @@ km, s, km³/s² throughout; dates as Julian dates (converters included);
 heliocentric ecliptic-J2000 frame. Mean-element ephemerides are accurate to a
 few thousandths of an AU inside 1800–2050 — ideal for window studies, not for
 navigation.
-
-## License
-
-MIT

@@ -8,7 +8,6 @@ version = "0.1.0"
 description = "Interplanetary transfer-window analysis: Lambert solver, planetary ephemerides, porkchop plots"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
 dependencies = [
     "numpy>=1.24",
     "matplotlib>=3.7",
